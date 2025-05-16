@@ -11,6 +11,6 @@ To run this project successfully (especially with Streamlit), make sure you have
 Python 3.9,
 TensorFlow 2.18.0,
 Streamlit,
-protobuf,
+protobuf==3.20.3,
 FastAPI,
 matplotlib.
